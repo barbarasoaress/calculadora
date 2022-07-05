@@ -1,2 +1,2 @@
 # Calculadora
-HUtilizando apenas HTML CSS e JAVASCRIPT
+Utilizando apenas HTML CSS e JAVASCRIPT
