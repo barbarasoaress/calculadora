@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/28948047-1a58-4499-9abb-31608312f005" width="450">
 </p>
+
 Calculadora web desenvolvida com **HTML, CSS e JavaScript** para praticar lógica de programação, eventos e manipulação do DOM.
 
 ## 🚀 Tecnologias utilizadas
