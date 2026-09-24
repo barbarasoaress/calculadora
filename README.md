@@ -1,2 +1,1 @@
-# Calculadora
-Mini projeto implementado em JavaScript, HTML e CSS.
+Calculadora web desenvolvida com HTML, CSS e JavaScript para praticar lógica de programação e manipulação do DOM.
